@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "U:\\GitHub\\PortfolioWebsite\\Portfolio-Website\\Portfolio_Website_Source_Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C776BB7-CD0E-4B4B-AC87-D0932A7A2100}|Solution Items{7C776BB7-CD0E-4B4B-AC87-D0932A7A2100}|U:\\GitHub\\PortfolioWebsite\\Portfolio-Website\\Portfolio_Website_Source_Code\\Welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C776BB7-CD0E-4B4B-AC87-D0932A7A2100}|Solution Items{7C776BB7-CD0E-4B4B-AC87-D0932A7A2100}|solutionrelative:Welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Welcome.html",
+              "DocumentMoniker": "U:\\GitHub\\PortfolioWebsite\\Portfolio-Website\\Portfolio_Website_Source_Code\\Welcome.html",
+              "RelativeDocumentMoniker": "Welcome.html",
+              "ToolTip": "U:\\GitHub\\PortfolioWebsite\\Portfolio-Website\\Portfolio_Website_Source_Code\\Welcome.html",
+              "RelativeToolTip": "Welcome.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-22T18:29:34.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
