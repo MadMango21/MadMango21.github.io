@@ -1,5 +1,5 @@
 body{
-	font-size: 30px;
+	font-size: 20px;
 	color: #333;
 	background-color: #fff;
 	letter-spacing: 1px;
@@ -77,5 +77,36 @@ font-size: 25px;
 	color: #fff;
 }
 .h4, h4 {
-        font-size: 4rem;
+        font-size: 3rem;
     }
+
+.skill {
+	text-align: center;
+	margin-left: 10px;
+}
+.chart {
+	position: relative;
+	width: 152px;
+	height: 152px;
+	display: inline-block;
+	text-align: center;
+
+}
+
+.chart canvas {
+	position: absolute;
+	left: 0;
+	top: 0;
+
+}
+
+.chart .percent {
+	color: #000;
+	line-height: 152px;
+	display: inline-block;
+	font-size: 35px;
+}
+
+.chart .percent:after {
+	content: '%';
+}
