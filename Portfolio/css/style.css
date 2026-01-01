@@ -358,7 +358,7 @@ width: 100%;
 
 .navbar-toggle-icon {
     background: url(../img/Icons/Menu_Icon.png) no-repeat center center;
-    
+
 }
 
 .fixedNav  #navigation {
@@ -376,8 +376,8 @@ width: 100%;
 	left: 0px;
 	z-index: 1000;
 }
-.loader .inner {
-    width: 100px;
-    height: 100px;
-	background: url(../img/loader.gif) center center no-repeat;
-    }
+	.loader .inner {
+		//width: 100px;
+		height: 1250px;
+		background: url(../img/Icons/planting.png) center center no-repeat;
+	}
